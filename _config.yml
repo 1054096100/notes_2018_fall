@@ -3,12 +3,14 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: YoYo's B909
 subtitle:
-description:
+description: 和B612星球上的那一朵一样，这5000朵玫瑰每一朵都值得拥有一个小王子。其中有一个住在B909。
 keywords:
-author: John Doe
-language:
+author: Wushuang_YoYo
+language: 
+- en
+- zh-Hans
 timezone:
 
 # URL
@@ -73,9 +75,9 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: next 
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type:
+  type: git
